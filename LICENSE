@@ -8,7 +8,7 @@ CNN-SAE(MI-BCI) is a matlab progam for the classification Motor Imagery EEG sign
 CNN-SAE(MI-BCI) programed based on rasmusbergpal DeepLearnToolbox https://github.com/rasmusbergpalm/DeepLearnToolbox.git.
 Please fellow the lisense of rasmusbergpal when use this program.
 The theory of this program form https://doi.org/10.1088/1741-2560/14/1/016003
-Also, we I add some changes in it.
+Also, we have make some changes in it to improve the result.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

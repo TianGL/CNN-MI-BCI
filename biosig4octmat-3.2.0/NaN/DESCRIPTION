@@ -1,0 +1,11 @@
+Name: NaN
+Version: 2.5.1
+Date: 2011-11-11
+Author: Alois Schloegl <alois.schloegl@gmail.com>
+Maintainer: Alois Schloegl
+Title: NaN-toolbox
+Description: A statistics and machine learning toolbox for data with and w/o missing values
+Depends: octave (>= 3.2.4)
+License: GPL version 3 or later
+Url: http://pub.ist.ac.at/~schloegl/matlab/NaN
+SVNRelease: $Rev: 9097 $

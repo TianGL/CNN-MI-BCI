@@ -8,7 +8,7 @@ CNN-SAE program for MI-BCI classification. (Based on "A novel deep learning appr
 
 - CNN-SAE(MI-BCI) programed based on rasmusbergpal [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox.git.)
 
-- The theory of this program form [Tabar et al-2016-J Neural Eng](https://doi.org/10.1088/1741-2560/14/1/016003). Also, we have make some changes in it to improve the result.
+- The theory of this program based on [Tabar et al-2016-J Neural Eng](https://doi.org/10.1088/1741-2560/14/1/016003). Also, we have make some changes in it to improve the result.
 
 - This performance of this program is based on [BCI Competioion IV dataset 2a](http://www.bbci.de/competition/iv/)(click here for more information).
 

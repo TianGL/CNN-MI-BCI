@@ -6,7 +6,7 @@ CNN-SAE program for MI-BCI classification. (Based on "A novel deep learning appr
 
 - CNN-SAE(MI-BCI) is a matlab progam for the classification Motor Imagery EEG signals.
 
-- CNN-SAE(MI-BCI) programed based on rasmusbergpal [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox.git.)
+- CNN-SAE(MI-BCI) programed based on rasmusbergpal [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox.git)
 
 - The theory of this program based on [Tabar et al-2016-J Neural Eng](https://doi.org/10.1088/1741-2560/14/1/016003). Also, we have make some changes in it to improve the result.
 
@@ -25,3 +25,5 @@ Before you run the program, you should first run ***biosig_installer.m*** in bio
 @Geliang Tian (gltian@bit.edu.cn)
 
 > Upload BioSig toolbox
+
+Program haven't finished

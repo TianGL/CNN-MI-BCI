@@ -96,6 +96,7 @@ def run_classification(data, labels, session=(1, 2, 3, 4, 5)):
             size_y, size_x = train_data[0].shape[0:2]
 
             print(train_data.shape)
+            print(train_labels.shape)
             # train_data_size = train_data.shape[0]
             # test_data_size = test_data.shape[0]
 

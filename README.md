@@ -28,14 +28,18 @@ I also think the result can be improved with carfully tunning.
 
 # Log INFO
 
-2017.12.14 
+2018.12.13
 
-@Geliang Tian (tglasd@163.com))
-
-> Upload BioSig toolbox
+> Upload CNN v2 python codes (/python/MI_EGG_CNN v2)
 
 2018.10.23
 
 @Geliang Tian (tglasd@163.com)
 
 > Upload CNN codes (matbal and python)
+
+2017.12.14 
+
+@Geliang Tian (tglasd@163.com))
+
+> Upload BioSig toolbox
